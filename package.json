@@ -1,0 +1,21 @@
+{
+  "name": "homework1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\\"
+  },
+  "author": "Michael Knapp <knapp296@live.missouristate.edu>",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "html-webpack-plugin": "^2.30.1",
+    "webpack": "^3.10.0",
+    "webpack-dev": "^1.1.0",
+    "webpack-dev-server": "^2.11.1"
+  }
+}
